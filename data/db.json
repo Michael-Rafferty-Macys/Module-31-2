@@ -48,6 +48,24 @@
       "back": "b",
       "deckId": 1,
       "id": 7
+    },
+    {
+      "front": "This is the front of the card",
+      "back": "This is the back of the card",
+      "deckId": "1",
+      "id": 8
+    },
+    {
+      "front": "Front 8/23/2002 5:13 PM",
+      "back": "Back 8/23/2002 5:13 PM",
+      "deckId": "1",
+      "id": 9
+    },
+    {
+      "front": "Front side: 8/23/2022 5:21 PM",
+      "back": "Back side: 8/23/2022 5:21 PM",
+      "deckId": 1,
+      "id": 10
     }
   ]
 }

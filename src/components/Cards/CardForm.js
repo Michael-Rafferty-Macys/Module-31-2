@@ -47,6 +47,7 @@ function CardForm({deck}) {
   }
 
   function handleSave() {
+    
     createCard(parseInt(deckId), {...front, ...back});
     setFront({"front": ""});
     setBack({"back": ""});
